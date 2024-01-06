@@ -1,0 +1,6 @@
+need to run following step
+1. composer install
+2. update your mysql database to wopractical in .env file
+3. php artisan migrate
+4. php artisan storage:link
+5. after setup all changes run command php artisan serve for testing
